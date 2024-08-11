@@ -6,7 +6,7 @@
 <p>👋 &nbsp;Hi there! I'm Antoine, a Front-end Developer.</p>
 <p>🔍 &nbsp;I'm actively seeking roles as a Front-end Develope, with a tech stack like React, Next.</p>
 <p>🚀 &nbsp;My technical skillset includes React, React Native, Next, and more. </p>
-<p>🌱 &nbsp;Currently, I'm working at Tymate</p>
+<p>🌱 &nbsp;Currently, I'm working at AXA France</p>
 <p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
 <br />
